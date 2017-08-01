@@ -4,9 +4,12 @@ This Program will extract important information from AndroidManifest.xml file in
 You will get Package Name, Launch Activity Name, Permissions, all activity names and All the services.
 
 <h2>Usage:</h2>
+<p>
 <code>
 ./ApkInfoExtractor.sh <i>YourApk</i>.apk
 </code>
+</p>
+
 
 <p>Output will be stored in <i>apkname</i>.csv file.</p>
 
