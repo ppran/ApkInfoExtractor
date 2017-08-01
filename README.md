@@ -7,12 +7,13 @@ You will get Package Name, Launch Activity Name, Permissions, all activity names
 <code>
 ./ApkInfoExtractor.sh <i>YourApk</i>.apk
 </code>
-Output will be stored in <i>apkname</i>.csv file.
+
+<p>Output will be stored in <i>apkname</i>.csv file.</p>
 
 
 
 
-Edit "ApkInforExtractor.sh" file to process multiple apk's at once.
+<p>Edit "ApkInforExtractor.sh" file to process multiple apk's at once.</p>
 
 
 
