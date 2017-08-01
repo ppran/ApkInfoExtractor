@@ -27,3 +27,7 @@ This code is based on <b>aapt</b> ouput
 <b>aapt</b> is a part of android sdk tools.
 
 Install Android SDK tools if aapt command fails.
+
+
+<h2>Author</h2>
+Pranav Panage
